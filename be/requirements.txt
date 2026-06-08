@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-groq
+tavily-python
+pypdf
+python-dotenv
+python-multipart
+requests
